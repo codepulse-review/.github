@@ -32,7 +32,7 @@ No Slack needed to start. You can add it after your first review.
 
 | Repo | What it is |
 |---|---|
-| [`review-action`](https://github.com/codepulse-review/review-action) | GitHub Action that triggers a review once your CI passes. No secrets to set up |
+| [`review-action`](https://github.com/CodePulseHQ/review-action) | GitHub Action that triggers a review once your CI passes. No secrets to set up |
 | [`tideline`](https://github.com/codepulse-review/tideline) | A small public app with planted bugs in Swift, Kotlin and TypeScript. Open its pull requests to see real reviews |
 | [`babysit-prs-plugin`](https://github.com/CodePulseHQ/babysit-prs-plugin) | Claude Code plugin that watches your PRs and fixes review comments and failing CI |
 
